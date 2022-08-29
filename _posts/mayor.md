@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Mayor's Corner"
+author: "Mayor Julius Caesar F. Herrera"
+categories: facts
+tags: [mayor]
+image: 300157804_105759658917426_2553553401906153579_n.jpg
+---
+
+Mayor Julius Caesar Falar Herrera was born on April 21, 1953. He served as Vice Governor of Bohol from June 30, 2001 – June 30, 2010 and as president of the Vice Governors League of the Philippines.
+
+He was married to Atty. Florenda Leyson Herrera.
+
+Mayor Herrera finished Bachelor of Laws at the University of San Jose Recoletos in Cebu City in 1980 and in 1981 successfully passed the Bar examination.
+
+- Elementary education, Zapatera Elementary School, 1964
+- Secondary education, University of San Carlos, 1972
+- College, Bachelor of Laws, University of San Jose–Recoletos, 1980
