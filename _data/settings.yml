@@ -7,12 +7,11 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Mission & Vision',        url: 'mission-vision'}
-- {name: 'News & Events',           url: 'news-and-events'}
-- {name: 'Resolution & Ordinances', url: 'resolution-and-ordinances'}
-- {name: 'Transparency',            url: 'transparency'}
-- {name: 'Directory',               url: 'directory'}
-- {name: 'DTR Online',              url: 'dtr-app'}
+- {name: 'Mission & Vision',         url: 'mission-vision'}
+- {name: 'News & Events',            url: 'news-and-events'}
+- {name: 'Resolutions & Ordinances', url: 'resolutions-and-ordinances'}
+- {name: 'Transparency',             url: 'transparency'}
+- {name: 'Directory',                url: 'directory'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
