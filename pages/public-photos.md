@@ -1,7 +1,6 @@
 ---
-layout: category
+layout: page
 title: Public Photos
-category: photos
 permalink: /public-photos
 ---
 
