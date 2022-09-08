@@ -2,7 +2,7 @@
 layout: post
 title: "National Disability Prevention and Rehabilation Week"
 author: "ICT"
-categories: documentation
+categories: events
 tags: [calape,documentation]
 image: 300157666_107450928748299_6211657107272313443_n.jpg
 ---
