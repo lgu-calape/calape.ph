@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Mission & Vision',         url: 'mission-vision'}
+- {name: 'Vision & Mission',         url: 'vision-mission'}
 - {name: 'News & Events',            url: 'news-and-events'}
 - {name: 'Resolutions & Ordinances', url: 'resolutions-and-ordinances'}
 - {name: 'Transparency',             url: 'transparency'}
