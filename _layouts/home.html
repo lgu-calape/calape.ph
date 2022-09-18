@@ -3,15 +3,6 @@ layout: default
 title: Home
 ---
 
-<!-- welcome to calape -->
-<article>
-  <a href="https://calape.ph/public-photos">
-    <div class="featured-post" style="background-image:url('https://lh3.googleusercontent.com/pw/AL9nZEWlDfDZ-0AeM3Hgmpmo9PyksAPsjMHvRQOntMAEMH0IWB_eKflEHRbuCh0DYf2pg-GyXWLgEV6PPtzvGfXvzql2XTgOJ4vvm5PPGeNO8kTuo8A1ulAac3v3gsm5hxLDVQ46qmQeTrG4uTjdCkiB0w7d=w3012-h1696-no?authuser=0');">
-      
-    </div>
-  </a>
-</article>
-
 {% for post in paginator.posts %}
   {% include featured-post.html %}
 {% endfor %}
