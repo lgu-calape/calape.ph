@@ -1,0 +1,34 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'calape-dot-ph'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
+menu:
+- {name: 'Vision & Mission',         url: 'vision-mission'}
+- {name: 'News & Events',            url: 'news-and-events'}
+- {name: 'Resolutions & Ordinances', url: 'resolutions-and-ordinances'}
+- {name: 'Transparency',             url: 'transparency'}
+- {name: 'Directory',                url: 'directory'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'twitter',    link:    'https://twitter.com/calapedotph'}
+- {icon: 'facebook',   link:   'https://www.facebook.com/OfficialPageCalape'}
+- {icon: 'instagram',  link:  'https://instagram.com/calapedotph'}
+- {icon: 'envelope',   link:   'mailto:hello@calape.ph'}
+- {icon: 'rss-square', link: 'feed.xml'}
+# - {icon: 'rss-square', link: 'rss-feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: ''
+
+related_posts: ''
+
+post_date_prefix: 'Written on'

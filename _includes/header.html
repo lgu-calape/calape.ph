@@ -1,0 +1,21 @@
+<header class="site-header">
+  <h3 class="site-title">
+    <a href="{{ site.github.url }}/">
+      <span style="color:#0A7500;">CALAPE</span><span style="color:#C2A200;">.</span><span style="color:#F42F01;">P</span><span style="color:#F42F01;">H</span>
+    </a>
+  </h3>
+  <nav class="menu-list">
+    {% for item in site.data.settings.menu %}
+      <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
+    {% endfor %}
+    <a href="https://dtr.calape.app" class="menu-link">DTR Online</a>
+  </nav>
+  <div class="dropdown">
+    <button class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
+    <div class="dropdown-content">
+      {% for item in site.data.settings.menu %}
+        <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</header>
