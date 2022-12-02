@@ -7,20 +7,20 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Vision & Mission',         url: 'vision-mission'}
-- {name: 'News & Events',            url: 'news-and-events'}
-- {name: 'Resolutions & Ordinances', url: 'resolutions-and-ordinances'}
-- {name: 'Transparency',             url: 'transparency'}
-- {name: 'Directory',                url: 'directory'}
+- {name: 'Home',                     url: '/'}
+- {name: 'Vision & Mission',         url: '/vision-mission'}
+- {name: 'News & Events',            url: '/news-and-events'}
+- {name: 'Resolutions & Ordinances', url: '/resolutions-and-ordinances'}
+- {name: 'Daily Time Records',       url: 'https://dtr.calape.app'}
+- {name: 'IT Projects',              url: 'https://github.com/lgu-calape'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter',    link:    'https://twitter.com/calapedotph'}
-- {icon: 'facebook',   link:   'https://www.facebook.com/OfficialPageCalape'}
-- {icon: 'instagram',  link:  'https://instagram.com/calapedotph'}
-- {icon: 'envelope',   link:   'mailto:hello@calape.ph'}
+- {icon: 'twitter',    link: 'https://twitter.com/calapedotph'}
+- {icon: 'facebook',   link: 'https://www.facebook.com/OfficialPageCalape'}
+- {icon: 'instagram',  link: 'https://instagram.com/calapedotph'}
+- {icon: 'envelope',   link: 'mailto:hello@calape.ph'}
 - {icon: 'rss-square', link: 'feed.xml'}
-# - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
 pagination:
