@@ -10,9 +10,6 @@ menu:
 - {name: 'Home',                     url: '/'}
 - {name: 'Vision & Mission',         url: '/vision-mission'}
 - {name: 'News & Events',            url: '/news-and-events'}
-- {name: 'Resolutions & Ordinances', url: '/resolutions-and-ordinances'}
-- {name: 'Daily Time Records',       url: 'https://dtr.calape.app'}
-- {name: 'IT Projects',              url: 'https://github.com/lgu-calape'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
