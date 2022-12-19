@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 - {name: 'Home',                     url: '/'}
 - {name: 'Vision & Mission',         url: '/vision-mission'}
-- {name: 'News & Events',            url: 'https://fb.com/OfficialPageCalape'}
+- {name: 'Latest Updates',            url: 'https://fb.com/OfficialPageCalape'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
