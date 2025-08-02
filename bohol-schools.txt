@@ -1,0 +1,1098 @@
+103611 - Cantumogcad Elementary School
+117929 - Alburquerque Central Elementary School
+117930 - Bahi Primary School
+117931 - Canlimpong Primary School
+117932 - Cantiguib Primary School
+117933 - Dangay Elementary School
+117935 - Toril Elementary School
+117936 - Alicia Central Elem.
+117937 - Cabatang Elementary School
+117938 - Cagongcagong Elementary School
+117939 - Cambaol Elementary School
+117940 - Cayacay Elementary School
+117941 - Del Monte Elementary School
+117942 - Katipunan Elementary School
+117943 - Katipunan Elementary School  Annex
+117944 - La Hacienda Elementary School
+117945 - Mahayag Elementary School
+117946 - Napo Elementary School
+117947 - Progreso Elementary School
+117948 - Putlongcam Elementary School
+117949 - Sudlon Elementary School
+117950 - Untaga Elementary School
+117951 - Abihid Elementary School
+117952 - Almaria Elementary School
+117953 - Anda Central Elementary School
+117954 - Bacong Elementary School
+117955 - Badiang Elementary School
+117956 - Buenasuerte Elementary School
+117957 - Candabong Elementary School
+117958 - Casica Primary School
+117959 - Ipo Elementary School
+117960 - Linawan Elementary School
+117961 - Londag Elementary School
+117962 - Mahayahay Elementary School
+117963 - Porcenas Elementary School
+117964 - Talisay Elementary School
+117965 - Tanod Elementary School
+117966 - Virgen Elementary School
+117967 - Angilan Elementary School
+117968 - Antequera Central Elementary School
+117969 - Bantolinao Elementary School
+117970 - Bicahan Primary School
+117971 - Bitaugan Primary School
+117972 - Bungahan Elementary School
+117973 - Canlaas Elementary School
+117974 - Cansibuan Primary School
+117975 - Danao Primary School
+117976 - Obujan-Tagubaas Elementary School
+117977 - Quinapon-an Elementary School
+117978 - Sto. Rosario Elementary School
+117979 - Tabuan Elementary School
+117980 - Tupas Elementary School
+117981 - Viga Primary School
+117982 - Villa Aurora Elementary School
+117983 - Baclayon Central Elementary School
+117984 - Cambanac Primary School
+117985 - Tanday Elementary School
+117986 - Guiwanon Elementary School
+117987 - Laya Elementary School
+117988 - Libertad Elementary School
+117989 - Miguel Oppus Memorial Elementary School
+117990 - Montana Elementary School
+117991 - Pamilacan Elementary School
+117992 - PAYAHAN ELEMENTARY SCHOOL
+117993 - Dasitam Elementary School
+117994 - Tunga Elementary School
+117995 - Balilihan Central Elementary School
+117996 - Baucan Elementary School
+117997 - Boctol Elementary School
+117998 - Boyog Elementary School
+117999 - Cabad-Candasig Elementary School
+118000 - Cantalid Primary School
+118001 - Cantomimbo Primary School
+118002 - Cogon-Tagustusan Elementary School
+118003 - Datag Elementary School
+118004 - Dorol Elementary School
+118005 - Haguilanan Grande Elementary School
+118006 - Hanopol Elementary School
+118007 - Magsija-Maslog Elementary School
+118008 - Sagasa Elementary School
+118009 - Sal-ing Elementary School
+118010 - San Isidro Primary School
+118012 - Batuan Central Elementary School
+118013 - Batuan Central Elem School - Annex
+118014 - Behind The Clouds Primary School
+118015 - Bonifacio Elementary School
+118016 - Cabacnitan Elementary School
+118017 - Cambacay Elementary School
+118018 - Cantigdas Elementary School
+118019 - Garcia Elementary School
+118020 - Janlud Elementary School
+118021 - Lungsod-Daan Elementary School
+118022 - Quezon Elementary School
+118023 - Quirino Primary School
+118024 - Rizal Elementary School
+118025 - Rosariohan Elementary School
+118026 - Sta. Cruz Elementary School
+118027 - Bien Unido Central Elementary School
+118028 - Bilangbilangan Daku Elementary School
+118029 - Bilangbilangan East Elementary School
+118030 - Hingotanan Elementary School
+118031 - Liberty Elementary School
+118032 - Malingin Elementary School
+118033 - Mandawa Elementary School
+118035 - Nueva Esperanza Integrated School
+118036 - Nueva Estrella Elementary School
+118037 - Pinamgo Elementary School
+118038 - Puerto San Pedro Elementary School
+118039 - Sagasa Elementary School
+118040 - Tuboran Elementary School
+118041 - Bilar Central Elementary School
+118042 - Bonifacio Elementary School
+118043 - Bugang Elementary School
+118044 - Cabacnitan Elementary School
+118045 - Cambigsi Elementary School
+118046 - Campagao Elementary School
+118047 - Cansumbol Elementary School
+118048 - Dagohoy Elementary School
+118049 - Owac Elementary School
+118050 - Quezon Elementary School
+118051 - Riverside Elementary School
+118052 - Rizal Elementary School
+118053 - Roxas Elementary School
+118054 - Subayon Elementary School
+118055 - Villa Aurora Elementary School
+118056 - Villa Suerte Elementary School
+118057 - Yanaya Elementary School
+118058 - Zamora Elementary School
+118059 - Anonang Primary School
+118060 - Bago Elementary School
+118061 - Baluarte Elementary School
+118062 - BANTUAN ELEMENTARY
+118063 - Bato Elementary School
+118064 - Bonotbonot Elementary School
+118065 - Buenavista CES
+118066 - Asinan Elementary School
+118067 - Buga-ong Primary School
+118068 - Cabul-an Elementary School
+118069 - Cambuhat Elementary School
+118070 - Cambus-oc Elementary School
+118071 - Cangawa Elementary School
+118072 - Cantores Elementary School
+118073 - Cantuba Elementary School
+118074 - Catigbian Elementary School
+118075 - Cawag Elementary School
+118076 - Dait Norte Elementary School
+118077 - Lapacan Norte Primary School
+118078 - Lubang Elementary School
+118079 - Magkaya Elementary School
+118080 - Nueva Granada Elementary School
+118081 - Nueva Montana Elementary School
+118082 - Overland Elementary School
+118083 - P. Tirol Elementary School
+118084 - Panghagban Elementary School
+118085 - Lusong Elementary School
+118086 - Putingbato Elementary School
+118087 - Rufo Hill Elementary School
+118088 - Banlasan Elementary School
+118089 - Bonbon - Catmonan Elementary School
+118090 - Cabayugan Elementary School
+118091 - Cabudburan Elementary School
+118092 - Calape Central Elementary School
+118093 - Bentig - Calunasan Elementary School
+118094 - Camias Elementary School
+118095 - Canguha Elementary School
+118096 - Kinabag-an Elementary School
+118097 - Labu-on Elementary School
+118098 - Mandaug Elementary School
+118099 - Mandaug-Gamay Elementary School
+118100 - Mantatao Elementary School
+118101 - Pangangan Elementary School
+118102 - Sampoangon Elementary School
+118103 - San Isidro Elementary School
+118105 - Tinibgan Elementary School
+118106 - Tultugan Elementary School
+118107 - Ulbujan Elementary School
+118108 - Abihilan Elementary School
+118109 - Anoling Elementary School
+118110 - Boyoan Elementary School
+118111 - Cadapdapan Elementary School
+118112 - Cambane Elementary School
+118113 - Canawa Elementary School
+118114 - Candijay Central Elementary School
+118115 - Can-olin Elementary School
+118116 - Cogtong Elementary School
+118117 - La Union Elementary School
+118118 - Luan Elementary School
+118119 - Lungsodaan Elementary School
+118120 - Mahangin Elementary School
+118121 - Pagahat Elementary School
+118122 - Panadtaran Elementary School
+118123 - Panas Elementary School
+118124 - Pangpang Elementary School
+118125 - San Isidro Elementary School
+118126 - Tambongan Elementary School
+118127 - Tawid Elementary School
+118128 - Tubod Elementary School
+118129 - Tugas Elementary School
+118130 - Alegria Elementary School
+118131 - Bicao Elementary School
+118132 - Bohog Elementary School
+118133 - Buenavista Elementary School
+118134 - Buenos Aires Elementary School
+118136 - Carmen West Central Elementary School
+118137 - El Progreso Elementary School
+118138 - El Salvador Elementary School
+118139 - Guadalupe Elementary School
+118140 - Katipunan Elementary School
+118141 - La Libertad Elementary School
+118142 - La Paz Elementary School
+118143 - La Salvacion Elementary School
+118144 - La Victoria Elementary School
+118145 - Matin-ao Elementary School
+118146 - Montehermoso Elementary School
+118147 - Montesuerte Elementary School
+118148 - Montesunting Elementary School
+118149 - Montevideo Elementary School
+118150 - Nueva Fuerza Elementary School
+118151 - Nueva Vida Este Elementary School
+118152 - Nueva Vida Norte Elementary School
+118153 - Nueva Vida Sur Elementary School
+118154 - Carmen East Central Elementary School
+118155 - Tagaonan Elementary School
+118156 - Tamboan Elementary School
+118157 - Tuan Elementary School
+118158 - Vallehermoso Elementary School
+118159 - Villaflor Elementary School
+118160 - Villafuerte Elementary School
+118161 - Villarcayo Elementary School
+118162 - Alegria Elementary School
+118163 - Ambuan Elementary School
+118164 - Baang Elementary School
+118165 - Bagtic Elementary School
+118166 - Bongbong Primary School
+118167 - Cambailan Elementary School
+118168 - Valeriano Segura Memorial Elementary School
+118169 - Catigbian Central Elementary School
+118170 - Catigbian West Central Elementary School
+118171 - Causwagan Elementary School
+118172 - Hagbuaya Elementary School
+118173 - Haguilanan Elementary School
+118174 - Kang-iras Elementary School
+118175 - Libertad Primary School
+118176 - Liboron Elementary School
+118177 - Mahayag Norte Elementary School
+118178 - Mahayag Sur Primary School
+118179 - Maitum Elementary School
+118180 - Mantasida Elementary School
+118181 - Rizal Primary School
+118182 - Sinakayanan Elementary School
+118183 - Triple Union Elementary School
+118184 - Bacani Elementary School
+118185 - Bogtongbod Elementary School
+118186 - Bonbon Elementary School
+118187 - Bontud Elementary School
+118188 - Buacao Elementary School
+118189 - Buangan Elementary School
+118190 - Cabog Elementary School
+118191 - Caboy Elementary School
+118192 - Cantoyoc Primary School
+118193 - Clarin Central Elementary School
+118195 - Lajog Elementary School
+118196 - Mataub Elementary School
+118197 - Nahawan Elementary School
+118198 - Tontunan Elementary School
+118199 - Tubod Primary School
+118201 - Canapnapan Primary School
+118202 - Cancatac Elementary School
+118203 - Corella Central Elementary School
+118204 - Sambog Elementary School
+118205 - Tanday Elementary School
+118206 - Cortes Central Elementary School
+118207 - Dela Paz Elementary School
+118208 - Fatima Elementary School
+118209 - Loreto Elementary School
+118210 - Lourdes Elementary School
+118211 - Malayo Elementary School
+118212 - Monserrat Elementary School
+118213 - New Lourdes Elementary School
+118214 - Patrocinio Elementary School
+118215 - Rosario Elementary School
+118216 - San Roque Elementary School
+118217 - Upper Dela Paz Primary School
+118218 - Babag Elementary School
+118219 - Cagawasan Elementary School
+118220 - Caluasan Elementary School
+118221 - Candelaria Elementary School
+118222 - Can-oling Elementary School
+118223 - Dagohoy Central Elementary
+118224 - Estaca Elementary School
+118225 - Kagawitan Elementary School
+118226 - La Esperanza Elementary School
+118227 - Mahayag Elementary School
+118228 - Malitbog Elementary School
+118229 - San Miguel Elementary School
+118230 - San Vicente Elementary School
+118231 - Sta. Cruz Elementary School
+118233 - Villa Aurora Elementary School
+118234 - Cabatuan Elementary School
+118235 - Cantubod Elementary School
+118236 - Carbon Elementary School
+118237 - Concepcion Elementary School
+118238 - Dagohoy Elementary School
+118239 - Danao Central Elementary School
+118240 - Danao Gamay Primary School
+118241 - Hibale Elementary School
+118242 - Magtangtang Elementary School
+118243 - Nahud Elementary School
+118244 - Remedios Elementary School
+118245 - Rowena Heights Elementary School
+118246 - San Carlos Elementary School
+118247 - San Jose Elementary School
+118248 - San Miguel Elementary School
+118249 - Santa Ana Elementary School
+118250 - Santa Fe Elementary School
+118251 - Santo Nino Elementary School
+118252 - Tabok Elementary School
+118253 - Taming Elementary School
+118254 - Villa Anunciado Elementary School
+118255 - Biking Elementary School
+118256 - Bingag Elementary School
+118257 - Catarman Elementary School
+118258 - Dao Elementary School
+118259 - Dauis Central Elementary School
+118260 - Mariveles Elementary School
+118261 - Mayacabac Elementary School
+118262 - San Isidro Elementary School
+118263 - Songculan Elementary School
+118264 - Tabalong Elementary School
+118265 - Tinago Elementary School
+118266 - Totolan Elementary School
+118267 - Banban Elementary School
+118268 - Bauhugan Elementary School
+118269 - Cabagakian Elementary School
+118270 - Cadap-agan Elementary School
+118271 - Cambayaon Elementary School
+118272 - Canhayupon Elementary School
+118273 - Canlambong Elementary School
+118274 - Catugasan Elementary School
+118275 - Dimiao Central Elementary School
+118276 - Guindaguitan Elementary School
+118277 - Lapsaon Elementary School
+118278 - Limokon Elementary School
+118279 - Oac Elementary School
+118280 - Pagsa Elementary School
+118281 - Tangohay Elementary School
+118282 - Alejawan Primary School
+118283 - Angilan elementary School
+118284 - Anibongan Primary School
+118285 - Bangwalog Elementary School
+118286 - Buayahan Elementary School
+118287 - Itum Primary School
+118288 - Cansuhay Primary School
+118289 - Danao Elementary School
+118290 - Duay Primary School
+118291 - Duero Central Elementary School
+118292 - Guba Elementary School
+118293 - Guinsularan Elementary School
+118294 - Langkis Primary School
+118295 - Lobogon Elementary School
+118296 - Madua Norte Primary School
+118297 - Madua Sur Elementary School
+118298 - Mambool Elementary School
+118299 - Payao Elementary School
+118300 - San Isidro Elementary School
+118301 - San Pedro Elementary School
+118302 - Taytay Elementary School
+118303 - Abijilan Elementary School
+118304 - Antipolo Elementary School
+118305 - Cagwang Elementary School
+118306 - Cambuyo Elementary School
+118307 - Canayaon Elementary School
+118308 - Candulao Elementary School
+118309 - Cayam Elementary School
+118310 - Datag Elementary School
+118311 - Estaca Elementary School
+118312 - Garcia-Hernandez Central Elementary School
+118313 - Libertad Elementary School
+118314 - Malinao Elementary School
+118315 - Pasong Elementary School
+118316 - Roxas Park Elementary School
+118317 - Sacaon Elementary School
+118318 - Sampong Elementary School
+118319 - Tabuan Elementary School
+118320 - Togbongon Elementary School
+118321 - Alumar Elementary School
+118322 - Banacon Elementary School
+118323 - Buyog Elementary School
+118324 - Cabasakan Elementary School
+118325 - Cagawasan Primary School
+118326 - Campao Elementary School
+118327 - Campao Occ. Primary School
+118328 - Cangmundo Elementary School
+118330 - Corte-Baud Elementary School
+118331 - Getafe Central Elementary School
+118332 - Handumon Elem.School
+118333 - Jagoliao Elementary School
+118334 - Jandayan Elementary School
+118335 - Jandayan Sur Primary School
+118336 - Mahanay Elementary
+118337 - Nasingin Elementary School
+118338 - Pandanon Elementary School
+118339 - Saguise Elementary School
+118340 - Salog Elementary School
+118341 - San Jose Elementary School
+118342 - Sto. Nino Elementary School
+118343 - Taytay Elementary School
+118344 - Tugas Elementary School
+118345 - Tulang Elementary School
+118346 - Basdio Elementary School
+118347 - Bato Elementary School
+118348 - Bayong Elementary
+118349 - Biabas Elementary School
+118350 - Bulawan Elementary School
+118351 - Cabantian Elementary School
+118352 - Cabugan Elementary School
+118353 - Canhaway Elementary School
+118354 - Cansiwang Elementary School
+118355 - Casbu Elementary School
+118356 - Catungawan Elementary School
+118357 - Guinacot Elementary School
+118358 - Guindulman Central Elementary School
+118359 - Guio-ang Elementary School
+118360 - Lombog Elementary School
+118361 - Mayuga Elementary School
+118362 - Tabunoc Elementary School
+118363 - Tambis Elementary School
+118364 - Trinidad Elementary School
+118365 - ANONANG Elementary School
+118366 - Baguhan Elementary School
+118367 - Baogo Elementary School
+118368 - Bugang Primary School
+118369 - Cagayan Primary School
+118370 - Cambitoon Elementary School
+118371 - Causlan Primary School
+118372 - Cuaming Elementary School
+118373 - Dait Sur Elementary School
+118374 - Datag Elementary School
+118375 - Fatima Primary School
+118376 - Hambongan Elementary School
+118377 - Ilaya Primary School
+118379 - Lawis Elementary School
+118380 - Liloan Norte Elementary School
+118381 - Liloan Sur Elementary School
+118382 - Ma. Rosario Primary School
+118383 - NABUAD ELEMENTARY SCHOOL
+118384 - Napo Primary School
+118385 - Ondol Elementary School
+118386 - Riverside Primary School
+118387 - San Isidro Elementary School
+118388 - San Jose Elementary School
+118389 - Sto. Nino Primary School
+118390 - Sua Primary School
+118391 - Badiang Elementary School
+118392 - Bahan Primary School
+118393 - Banahao Elementary School
+118394 - Cagawasan Elementary School
+118395 - Cainsican Elementary School
+118396 - Canlinte Primary School
+118397 - Cawayan Elementary School
+118398 - Dagnawan Elementary School
+118399 - Dagohoy Elementary School
+118400 - Ilihan Primary School
+118401 - Inabanga South Central Elementary School
+118402 - Lomboy Primary School
+118403 - Lonoy Primary School
+118404 - Lutao Elementary School
+118405 - Luyo Primary School
+118406 - Mabuhay Primary School
+118407 - Sto. Rosario Elementary School
+118408 - Tambooc Primary School
+118409 - Tungod Primary School
+118410 - U-og Ubujan Elementary School
+118411 - Balili Elementary School
+118412 - Boctol Elementary School
+118413 - Bunga Ilaya Elementary School
+118414 - Bunga Mar Elementary School
+118415 - Buyog Elementary School
+118416 - Cabungaan Elementary School
+118417 - Calabacita Elementary School
+118418 - Cambugason Elementary School
+118419 - Can-ipol Elementary School
+118420 - Canjulao Elementary School
+118421 - Cantagay Elementary School
+118422 - Cantuyoc Elementary School
+118423 - Canuba Elementary School
+118424 - Jagna Central Elementary School
+118425 - Kinagbaan Elementary School
+118426 - Larapan Elementary School
+118427 - Lonoy Elementary School
+118428 - Malbog Elementary School
+118429 - Mayana Elementary School
+118430 - Naatang Elementary School
+118431 - Odiong Elementary School
+118433 - Bonkokan Elementary School
+118434 - Calvario Elementary School
+118435 - Cogon Elementary School
+118436 - Jambawan Elementary School
+118437 - Lila Central Elementary School
+118438 - Macalingan Primary School
+118439 - Malinao Elementary School
+118440 - Nagsulay Elem. School
+118441 - Taug Primary School
+118442 - Tiguis Elementary School
+118443 - COMMODORE HERACLEO ALANO MEMORIAL ELEMENTARY SCHOOL ( ALEGRIA Elementary School)
+118444 - Botoc Elementary School
+118445 - Candontol Primary School
+118446 - Concepcion Elementary School
+118447 - Las Salinas Elementary School
+118448 - Sagnap Elementary School
+118449 - SPP Jose A. Clarin Memorial School
+118450 - Tambangan Elementary School
+118451 - Tangcasan Norte  Elementary  School
+118452 - Tayong Elementary School
+118453 - Tocdog Elementary School
+118454 - Villalimpia Elementary School
+118455 - Agape Elementary School
+118456 - Antonio-Felipa Primary School
+118457 - Bagumbayan Elementary School
+118458 - Bartolome Doria Elementary School
+118459 - Buenavista Elementary School
+118460 - Bugho Elementary School
+118461 - Calunasan Sur Elementary School
+118462 - Candabong Elementary School
+118463 - Gon-ob Primary School
+118464 - Gotozon Elementary School
+118465 - Jimili-an Primary School
+118466 - Loboc Central Elementary School
+118467 - Quinoguitan Elementary School
+118468 - Tambis Elementary School
+118469 - TIGBAO ELEMENTARY SCHOOL
+118470 - Triple Union Elementary School
+118471 - Bagacay Elementary School
+118472 - Basdio Primary School
+118473 - Biasong Elementary School
+118474 - Cabilao Elementary School
+118475 - Calayugan Elementary School
+118476 - Cambaquiz Elementary School
+118477 - Canhangdon Primary School
+118478 - Canigaan-Ubojan Elementary School
+118479 - Canmaag Primary School
+118480 - Cantam-is Elementary School
+118481 - Cantaongon Elementary School
+118482 - Cantomucad Elementary School
+118483 - Genomoan Primary School
+118484 - Lawis Elementary School
+118485 - Loon North Central Elementary School
+118486 - Mocpoc Elementary School
+118487 - Nueva Vida Elementary School
+118488 - Pondol Elementary School
+118489 - Sondol Primary School
+118490 - Agsoso Elementary School
+118491 - Badbad Elementary School
+118492 - Basac Elementary School
+118493 - Basdacu Primary School
+118494 - Bugho Primary School
+118495 - Cabug Primary School
+118496 - Campatud Elementary School
+118498 - Cogon Norte Elementary School
+118499 - Lintuan Elementary School
+118500 - Loon South Central Elementary School
+118501 - Nagtubo Elementary School
+118502 - Napo Elementary School
+118503 - Pig-ot Elementary School
+118504 - Sto. Nino Dela Paz Elementary School
+118505 - Tangnan Primary School
+118506 - Ticugan Elementary School
+118507 - Tiwi Primary School
+118508 - Tubodacu Elementary School
+118509 - Tubodio Elementary School
+118511 - Abad Santos Primary School
+118512 - Aguipo Elementary School
+118513 - Banlas Elementary School
+118514 - Baybayon Elementary School
+118515 - Bulawan Elementary School
+118516 - Cabidian Elementary School
+118517 - Cawayanan Elementary School
+118518 - Del Mar Elementary School
+118519 - Lungsodaan Elementary School
+118520 - Mabini Central Elementary School
+118521 - Mahayag Elementary School
+118522 - Marcelo Elementary School
+118523 - Minol Elementary School
+118524 - Paraiso Elementary School
+118525 - San Jose Elementary School
+118527 - San Roque Elementary School
+118528 - Tabunoc Elementary School
+118529 - Tambo Elementary School
+118531 - Valaga Elementary School
+118532 - Agahay Elementary School
+118533 - Aliguay Elementary School
+118534 - Bayacabac Elementary School
+118535 - Bood Primary School
+118536 - Busao Elementary School
+118537 - Cabawan Elementary School
+118538 - Candavid Elementary School
+118539 - Dipatlong Elementary School
+118540 - Guiwanon Primary School
+118541 - Jandig Elementary School
+118542 - Lagtangon Elementary School
+118543 - Lincod Elementary School
+118544 - Maribojoc Central Elementary School
+118545 - Pagnitoan Elementary School
+118546 - Punta Cruz Elementary School
+118547 - San Isidro Elementary School
+118548 - San Roque Elementary School
+118549 - San Vicente Primary School
+118550 - Santa Cruz Elementary School
+118551 - Tinibgan Elementary School
+118552 - Toril Primary School
+118553 - Balicasag Elementary School
+118554 - Bil-isan Elementary School
+118555 - Bolod Elementary School
+118556 - DANAO ELEMENTARY SCHOOL
+118557 - Doljo Elementary School
+118558 - Libaong Elementary School
+118559 - Looc Elementary School
+118560 - Lourdes Elementary School
+118561 - Panglao Central East Elementary School
+118562 - Panglao Central Elementary School
+118563 - Tangnan Elementary School
+118564 - Tawala Elementary School
+118565 - Aurora Elementary School
+118566 - Bagacay Elementary School
+118567 - Bagumbayan Elementary School
+118568 - Bayong Elementary School
+118569 - Buenasuerte Elementary School
+118570 - Cagawasan Elementary School
+118571 - Cansungay Elementary School
+118572 - Catagdaan Elementary School
+118573 - Del Pilar Elementary School
+118575 - Ilaud Elementary School
+118576 - Inaghuban Elementary School
+118577 - La Suerte Elementary School
+118578 - Lumbay Elementary School
+118579 - Lundag Elementary School
+118580 - Pamacsalan Elementary School
+118581 - Pilar Central Elementary School
+118582 - Rizal Elementary School
+118583 - San Carlos Elementary School
+118584 - San Isidro Elementary School
+118585 - San Vicente Elementary School
+118586 - Aguining Elementary School
+118587 - Basiao Elementary School
+118588 - Baud Elementary School
+118589 - Bogo Elementary School
+118590 - Bonbonon Elementary School
+118591 - Bayog Elementary School
+118592 - Butan Elementary School
+118593 - Campamanog Elementary School
+118594 - Canmangao Elementary School
+118595 - Gaus Elementary School
+118596 - Kabangkalan Elementary School
+118597 - Lapinig Elementary School
+118598 - Lipata Elementary School
+118599 - Popoo Elementary School
+118600 - President Carlos P. Garcia Central Elementary School
+118601 - Saguise elementary school
+118602 - San Vicente Elementary School
+118605 - Tilmobo Elementary School
+118606 - Tugas Elementary School
+118607 - Tugnao Elementary School
+118608 - Villa Milagrosa Elementary School
+118609 - Calangahan Elementary School
+118610 - Canmano Elementary School
+118611 - Canmaya Centro Elementary School
+118612 - Canmaya Diot Elementary School
+118613 - Kabasacan Elementary School
+118614 - Kagawasan Elementary School
+118615 - Katipunan Elementary School
+118616 - Langtad Elementary School
+118617 - Mantalongon Elementary School
+118618 - Sagbayan Central Elementary School
+118619 - Sagbayan Sur Elementary
+118620 - San Agustin Elementary School
+118621 - San Antonio Elementary School
+118623 - San Ramon Primary School
+118624 - San Roque Elementary School
+118625 - San Vicente Norte Elementary School
+118626 - San Vicente Sur Elementary School
+118627 - Sta. Catalina Elementary School
+118628 - Sta. Cruz Elementary  School
+118630 - Abehilan Elementary School
+118631 - Baryong Daan Primary School
+118632 - Baunos  Elementary School
+118634 - Caimbang Elementary School
+118635 - Cambansag Elementary
+118636 - Candungao Elementary School
+118637 - Cansague Norte Primary School
+118638 - Cansague Sur Elementary School
+118639 - Causwagan Primary School
+118640 - Masonoy Primary School
+118641 - San Isidro Central Elementary School
+118642 - Bayongan Elementary School
+118643 - Bugang Elementary School
+118644 - Cabangahan Elementary School
+118645 - Caluasan Elementary School
+118646 - Camanaga Elementary School
+118647 - Cambangay Norte Elementary School
+118648 - Capayas Elementary School
+118649 - Corazon Elementary School
+118650 - Garcia Elementary School
+118651 - Hagbuyo Elementary School
+118652 - Kagawasan Elementary School
+118653 - Mahayag Elementary School
+118654 - San Isidro Elementary School
+118655 - San Jose Elementary School
+118656 - San Miguel Central Elementary School
+118657 - San Vicente Elementary School
+118658 - Sto. Nino Elementary School
+118659 - Tomoc Elementary School
+118660 - Bayawahan Elementary School
+118661 - Cabancalan Primary School
+118662 - Calinga-an Elementary School
+118663 - Calinginan Norte Elementary School
+118664 - Calinginan Sur Primary School
+118665 - Cambagui Elementary School
+118666 - Ewon Elementary School
+118667 - Guinob-an Primary School
+118668 - Lagtangan Elementary School
+118669 - Licolico Elementary School
+118670 - Lobgob Elementary School
+118671 - Magsaysay Elementary School
+118672 - Sevilla Central Elementary School
+118673 - Abachanan Elementary School
+118674 - Anibongan Elementary School
+118675 - Bugsoc Elementary School
+118676 - Cahayag Elementary School
+118677 - Canlangit Elementary School
+118678 - Canta-ub Elementary School
+118679 - Casilay Primary School
+118680 - Concepcion Elementary School
+118681 - Danicop Elementary School
+118682 - Dusita Elementary School
+118683 - La Union Elementary School
+118684 - Lataban Elementary School
+118685 - Magsaysay Elementary School
+118686 - Matin-ao Elementary School
+118687 - Nan-od Elementary School
+118688 - Salvador Elementary School
+118689 - San Agustin Elementary School
+118690 - San Isidro Elementary School
+118691 - San Jose Elementary School
+118692 - San Juan Elementary School
+118693 - Sierra Bullones Central Elementary School
+118694 - Sta. Cruz Elementary School
+118695 - Villa Garcia Elementary School
+118696 - Abucay Elementary School
+118697 - Badiang Elementary School
+118698 - Cambuac Norte Primary School
+118699 - Cambuac Sur Elementary School
+118700 - Sikatuna Central Elementary School
+118717 - Balintawak Elementary School
+118718 - Burgos Elementary School
+118719 - Garcia Park Elementary School
+118721 - Magsaysay Elementary School
+118722 - Rizal Elementary School
+118723 - San Agustin Elementary School
+118724 - San Isidro Elementary School
+118725 - San Pedro Elementary School
+118726 - San Roque Elementary School
+118727 - Sikatuna Elementary School
+118728 - Sto. Nino Elementary School
+118729 - Talibon Central Elementary School
+118730 - Tanghaligue Elementary School
+118731 - Zamora Elementary School
+118732 - P Lt. Eugenio B. Artiaga Elementary School
+118733 - Bagacay Elementary School
+118734 - Busalian Elementary School
+118735 - Calituban Elementary School
+118737 - Guindacpan Elementary School
+118738 - Jao Elementary School
+118739 - Mahanay Elementary School
+118740 - Nocnocan Elementary School
+118741 - Sag Elementary School
+118742 - San Francisco Elementary School
+118743 - TALIBON II CENTRAL Elementary School
+118744 - A.P. Gurrea Mem. Elementary School
+118745 - Banlasan Elementary School
+118746 - Bongbong Elementary School
+118747 - Catoogan Elementary School
+118748 - Diis Elementary School
+118749 - Guinobatan Elementary School
+118750 - Hinlayagan Ilaud Elementary School
+118751 - Hinlayagan Ilaya Elementary School
+118752 - Kauswagan Elementary School
+118753 - Kinan-oan Elementary School
+118754 - La Union Elementary School
+118755 - La Victoria Elementary School
+118756 - Loblob Elementary School
+118757 - Manuel M. Roxas Elementary School
+118758 - Mabuhay Elementary School
+118759 - Mahagbu Elementary School
+118760 - Maonglinis Elementary School
+118761 - Panaghi-usa Elementary School
+118762 - San Isidro Elementary School
+118763 - San Vicente Elementary School
+118765 - Sto. Tomas Elementary School
+118766 - Tagum Norte Elementary School
+118767 - Tagum Sur Elementary School
+118768 - Trinidad Central Elementary School
+118770 - Avelino Chagas MES
+118771 - Bagongbanua Elementary School
+118772 - Banlasan Elementary School
+118773 - Batasan Elementary School
+118774 - Bilang-Bilangan Elementary School
+118775 - Isaac Lopoz Elementary School
+118776 - Buenos Aires Elementary School
+118777 - Bunacan Elementary School
+118778 - Cabulijan Elementary School
+118779 - Cahayag Elementary School
+118780 - Carmen Mellijor Primary School
+118781 - Cawayanan Elementary School
+118782 - Genonocan Elementary School
+118783 - Guiwanon Elementary School
+118784 - Ilijan Sur Elementary School
+118785 - Jose Boja Elementary School
+118786 - Libertad Elementary School
+118787 - Tubigon East CES
+118788 - Atty. Maximo C. Lasco Mem. Elementary School
+118789 - Mocaboc Elementary School
+118790 - Pandan Elementary School
+118791 - Pangapasan Elementary School
+118792 - Pinayagan Norte Elementary School
+118793 - Pinayagan Sur Elementary School
+118794 - Talenceras Elementary School
+118795 - Tan-awan Elementary School
+118796 - Tinangnan Elementary School
+118797 - Tubigon West Central Elementary School
+118798 - Ubay Primary School
+118799 - Ubojan Elementary School
+118800 - Villanueva Primary School
+118801 - Achila Elementary School
+118802 - Bay-ang Elementary School
+118803 - Benliw Elementary School
+118804 - Ubay II Central Elementary School (Biabas CES )
+118805 - Bongbong Elementary School
+118806 - Bood Elementary School
+118807 - Buenavista Elementary School
+118808 - Bulilis Elementary School
+118809 - Cagting Elementary School
+118810 - Calanggaman Elementary School
+118811 - California Elementary School
+118812 - Camambugan Elementary School
+118813 - Casate Elementary School
+118814 - Cuya Elem School
+118815 - Fatima Elementary School
+118816 - Gabi Elementary School
+118817 - Gov. Boyles Elementary School
+118818 - Guintaboan Elementary School
+118819 - Hambabauran Elementary School
+118820 - Humayhumay Elementary School
+118821 - Ilihan Elementary School
+118822 - Imelda Elementary School
+118823 - Juagdan Elementary School
+118824 - Katarungan Elementary School
+118825 - Lomangog Elementary School
+118826 - New Los Angeles Elementary School
+118827 - Luz Elementary School
+118828 - Pag-asa Elementary School
+118829 - Pangpang Elementary School
+118830 - San Francisco Elementary School
+118831 - San Isidro Elementary School
+118832 - San Pascual Elementary School
+118833 - San Vicente Elementary School
+118834 - Sentinela Elementary School
+118835 - Sinandigan Elementary School
+118837 - Tapon Elementary School
+118838 - Tintinan Elementary School
+118839 - Tipolo Elementary
+118840 - Tres Reyes Elementary School
+118842 - Tuboran Elementary School
+118843 - Ubay Central Elementary School
+118844 - Union Elementary School
+118845 - Villa Teresita Elementary School
+118846 - Adlawan Elementary School
+118847 - Anas Elementary School
+118848 - Anonang Elementary School
+118849 - Anoyon Elementary School
+118850 - Balingasao-Loctob Elementary School
+118851 - Botong Elementary School
+118852 - Canduao Elementary School
+118853 - Danao Elementary School
+118854 - Ginopolan Elementary School
+118855 - La Victoria Elementary School
+118856 - Lantang Elementary School
+118857 - Limokon Elementary School
+118858 - Omjon Elementary School
+118859 - Pangian Elementary School
+118860 - Simang Elementary School
+118861 - Tausion Elementary School
+118862 - Taytay Elementary School
+118863 - Ticum Elementary School
+118864 - Valencia Central Elementary School
+118865 - Cansibao Elementary School
+186501 - Pagahat Elementary School
+186502 - Can-omay Primary School
+186503 - Villaflor Elementary School
+186504 - Cabacungan Elementary School
+186505 - San Rafael Elementary School
+186506 - Tunaan-Daku Elementary School
+186507 - Alicia CES Annex
+186508 - Taculing Elementary School
+186509 - Suba Primary School
+186510 - Pandol Primary School
+186511 - Anislag Elementary School
+186512 - Domingo R. Yana Elementary School
+186513 - Lapu-lapu Elementary School
+186514 - Kagawasan Elementary School Annex
+186515 - Merryland Primary School
+186516 - Pansul Elementary School
+186518 - Can-inas Elementary School
+281502 - Bansaan Elementary School
+300519 - Mahanay High School
+302808 - Aguining National High School
+302809 - Alicia Technical-Voc'l High School
+302810 - Ambassador Pablo R. Suarez, Jr. National High School
+302811 - Baclayon National High School
+302812 - Badiang National High School
+302813 - Anda High School
+302814 - Zosimo A. Gulle Memorial National High School
+302815 - Batuan National High School
+302816 - Biabas Trade High School
+302817 - Biking Tech-Voc High School
+302818 - Bilar National High School
+302819 - Busao National High School
+302820 - Cabilao National High School
+302821 - Cabul-an National High School
+302822 - Tubigon West National High School
+302823 - Calabacita National High School
+302824 - Mayor A. R. Tuazon Nat'l Sch. of Fisheries
+302825 - Camambugan National High School
+302826 - Camaya-an National High School
+302827 - Campao Oriental High School
+302828 - Handumon National High School
+302829 - Candabong National High School
+302830 - Cangawa National High School
+302831 - Lubang National High School
+302832 - Canhayupon National High School
+302833 - Catigbian National High School
+302834 - Catungawan National High School
+302835 - Cawayanan National High School
+302836 - Clarin National School of Fisheries
+302837 - Concepcion National High School
+302838 - Cong. Pablo Malasarte National High School
+302839 - Corella National High School
+302840 - Dagohoy National High School
+302841 - Danao National High School
+302842 - Cantubod National High School
+302843 - Francisco Dagohoy Memorial High School
+302844 - Taming National High School
+302845 - Dimiao National High School
+302847 - Duero National High School
+302848 - Dusita High School
+302849 - Faraon National High School
+302850 - Fatima National High School
+302851 - Fermin Tayabas National High School
+302852 - Garcia-Hernandez High School
+302853 - Gov. Jacinto Borja National High School
+302854 - Guinacot National High School
+302855 - Guinsularan High School
+302856 - Hanopol National High School
+302857 - Hingotanan National High School
+302858 - Hinlayagan National High School
+302859 - Southern Inabanga High School
+302860 - Katipunan National High School
+302861 - Francisco L. Adlaon High School
+302862 - Kauswagan National High School
+302863 - La Hacienda National High School
+302864 - La Union National High School
+302865 - Candijay National High School
+302866 - Cogtong National High School
+302867 - Hinawanan National High School
+302868 - Lila National High School
+302869 - Loboc National High School
+302870 - Lonoy Heroes MHS
+302871 - Loon South National High School
+302872 - Lourdes National High School
+302873 - Mahayag National High School
+302877 - Mantacida National High School
+302878 - Mayuga National High School
+302879 - Nahawan National High School
+302880 - Oy National High School
+302881 - Pagnitoan National High School
+302882 - Pangangan National High School
+302883 - Calape National High School
+302884 - Pilar Technical-Vocational High School
+302885 - Policronio S. Dano, Sr. High School
+302886 - Pres. Carlos P. Garcia Technical Vocational School of Fisheries and Arts
+302887 - San Agustin National High School
+302888 - Eugenio V. Amores MHS
+302889 - San Isidro Tech-Voc High School
+302890 - San Isidro National High School
+302891 - San Jose National High School
+302892 - Inabanga High School- Nabuad
+302893 - San Jose National High School
+302894 - Calituban High School
+302895 - President Carlos P. Garcia Memorial High School
+302896 - Sikatuna Nat'l Agricultural High School
+302897 - San Miguel Technical Vocational School
+302898 - Bugang National High School
+302899 - San Pascual National Agr'l High School
+302900 - San Roque National High School
+302901 - San Roque National High School
+302902 - Sandingan National High School
+302903 - Sevilla National High School
+302904 - Cambagui-Calinginan Norte National  High School
+302905 - Sierra Bullones Technical Vocational High School
+302906 - Sikatuna National High School
+302907 - Bantolinao National High School
+302908 - Tabalong National High School
+302909 - Tabuan National High School
+302910 - Tagum Sur National High School
+302911 - Tambongan National High School
+302912 - Anoling National High School
+302913 - Tulang National High School
+302914 - Union National High School
+302915 - Ubay National Science High School
+302916 - Valencia Tech-Voc High School
+303130 - Erico B. Aumentado High School
+305543 - Felix E. Bompat High School
+305580 - Cambansag High School
+305581 - Valeriano Ganas High School
+305710 - Campagao High School
+305719 - Modesto G. Autida High School
+305720 - Tupas High School
+305721 - Canmaya Diot High School
+305722 - De La Paz High School
+305742 - Candijay Municipal High School
+305761 - Guindacpan High School
+305762 - Guinobatan High School
+312301 - Isabel S.J. Gujol Memorial High School
+312303 - Mayor Inocencio B. Mendez High School
+312304 - Dauis National High School
+312305 - Kinan-oan High School
+312306 - Canlaas High School
+312309 - JAPeR Memorial High School
+312310 - Bayawahan National High School
+312311 - Mayor Pablo O. Lim MHS
+312312 - Panghagban High School
+312313 - Mayor Catalino Y. Casoyla MHS
+312314 - Quezon High School - Batuan National High School Annex
+312315 - Rizal High Sschool
+312316 - Cayacay High School
+312317 - Pamilacan High School
+312318 - PEDRO S. BUDIONGAN HIGH SCHOOL
+312319 - Hagbuaya High School
+312320 - Haguilanan High School
+312321 - San Miguel-Puertos High School
+312322 - Pandanon High School
+312323 - San Jose High School
+312324 - Bonbonon High School
+312325 - Juanito-Paula Cruse High School
+312326 - Cuaming High School
+312327 - Candungao High School
+312328 - Sebastian A. Jala Memorial High School
+312329 - Bugsoc High School
+312330 - Santo Nino High School
+312331 - Ponciana E. Leoligao High School
+312332 - Bagongbanwa High School
+312333 - Tubigon West Central High School
+312334 - Bulilis High School
+312335 - Basiao High School
+312336 - Lungsodaan High School
+312337 - Dagnawan Inabanga High School
+312350 - San Isidro High School
+312351 - Cagting High School
+312352 - Cambuyo High School
+312353 - Campamanog High School
+312354 - Hambabauran High School
+312355 - Lourdes High School
+312356 - Bangwalog High School
+312357 - Vallehermoso High School
+312358 - Jagna High School
+312359 - Katipunan High School
+312360 - Ponciano L. Padin National High School
+312361 - Don Aguedo Reyes Maboloc Mem. National High School
+312362 - Nan-od High School
+500206 - San Isidro Elementary School
+500207 - Calatrava Elementary School
+500208 - Tubod Monte Integrated School
+500209 - Inabanga North Central Integrated School (Elementary)
+500210 - CATABAN INTEGRATED SCHOOL
+500211 - San Roque Integrated School
+500212 - Canangcaan Integrated School
+500213 - Cabanugan Elementary School
+500214 - Tapal Integrated School
+500215 - Tubog Integrated School
+500216 - Soom Integrated School
+500217 - Danahaw Integrated School
+500483 - Tangkigan Integrated School
+500961 - Ubojan Integrated School
+501128 - Sto. Rosario Integrated School
+501143 - San Jose Integrated School
+501583 - Estaca Integrated School
+501584 - Abaca Integrated School
+501635 - Maomawan Integrated School
+501734 - Nueva Esperanza Integrated School

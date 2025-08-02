@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bohol Legislators</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 20px;
+            background-color: #f4f7f6;
+            color: #333;
+        }
+        .table-container {
+            overflow-x: auto; /* Ensures responsiveness for small screens */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            background-color: #fff;
+            padding: 15px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 0;
+            white-space: nowrap; /* Prevents text wrapping in cells by default */
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #e0e0e0;
+            vertical-align: top; /* Align content to the top for multi-line cells */
+        }
+        th {
+            background-color: #007bff;
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            position: sticky;
+            top: 0; /* Makes header sticky if table is scrollable vertically */
+        }
+        tbody tr:nth-child(even) {
+            background-color: #f8fafd; /* Light blue tint for even rows */
+        }
+        tbody tr:hover {
+            background-color: #e9f0f9; /* Slightly darker hover effect */
+            transition: background-color 0.2s ease-in-out;
+        }
+        /* Styling for cells with rowspan to ensure consistent borders */
+        td[rowspan] {
+            border-right: 1px solid #e0e0e0;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>Legislative Period</th>
+                    <th>Year(s)</th>
+                    <th>District</th>
+                    <th>Legislator(s)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td rowspan="3">1st Philippine Legislature</td>
+                    <td rowspan="3">1907-1909</td>
+                    <td>1st District</td>
+                    <td>Candelario Borja</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Jose Aniceto Clarin</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Eutiquio Boyles</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">2nd Philippine Legislature</td>
+                    <td rowspan="3">1909-1912</td>
+                    <td>1st District</td>
+                    <td>Candelario Borja</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Jose Aniceto Clarin</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Eutiquio Boyles</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">3rd Philippine Legislature</td>
+                    <td rowspan="3">1912-1916</td>
+                    <td>1st District</td>
+                    <td>Candelario Borja</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Jose Aniceto Clarin</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Juan Virtudes</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">4th Philippine Legislature</td>
+                    <td rowspan="3">1916-1919</td>
+                    <td>1st District</td>
+                    <td>Celestino Gallares</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Macario Calinawan</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Filomeno Caseñas</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">5th Philippine Legislature</td>
+                    <td rowspan="3">1919-1922</td>
+                    <td>1st District</td>
+                    <td>Celestino Gallares</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Macario Calinawan</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Filomeno Caseñas</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">6th Philippine Legislature</td>
+                    <td rowspan="3">1922-1925</td>
+                    <td>1st District</td>
+                    <td>Fermin Torralba</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Carlos P. Garcia</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Teodoro Abueva</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">7th Philippine Legislature</td>
+                    <td rowspan="3">1925-1928</td>
+                    <td>1st District</td>
+                    <td>Fermin Torralba</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Carlos P. Garcia</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Teodoro Abueva</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">8th Philippine Legislature</td>
+                    <td rowspan="3">1928-1931</td>
+                    <td>1st District</td>
+                    <td>Jose Concon</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Olegario Clarin</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Carlos P. Garcia</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">9th Philippine Legislature</td>
+                    <td rowspan="3">1931-1934</td>
+                    <td>1st District</td>
+                    <td>Jose Concon</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Olegario Clarin</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Filomeno Caseñas</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">10th Philippine Legislature</td>
+                    <td rowspan="3">1934-1935</td>
+                    <td>1st District</td>
+                    <td>Bernardo Josol</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Macario Falcon</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Margarito Revilles</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">1st National Assembly (Commonwealth)</td>
+                    <td rowspan="3">1935-1938</td>
+                    <td>1st District</td>
+                    <td>Juan Torralba</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Olegario Clarin</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Margarito Revilles</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">2nd National Assembly (Commonwealth)</td>
+                    <td rowspan="3">1938-1941</td>
+                    <td>1st District</td>
+                    <td>Genaro Visarra</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Olegario Clarin</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Teofilo Buslon</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">1st Commonwealth Congress</td>
+                    <td rowspan="3">1945-1946</td>
+                    <td>1st District</td>
+                    <td>Genaro Visarra</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Simeon Toribio</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Cosme Garcia</td>
+                </tr>
+                <tr>
+                    <td>National Assembly (Post-War)</td>
+                    <td>1945-1946</td>
+                    <td>At-Large</td>
+                    <td>Vicente Bullecer</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">1st Congress</td>
+                    <td rowspan="3">1946-1949</td>
+                    <td>1st District</td>
+                    <td>Luis Clarin</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Simeon Toribio</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Cosme Garcia</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">2nd Congress</td>
+                    <td rowspan="3">1949-1953</td>
+                    <td>1st District</td>
+                    <td>Luis Clarin</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Simeon Toribio</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Esteban Bernido</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">3rd Congress</td>
+                    <td rowspan="3">1953-1957</td>
+                    <td>1st District</td>
+                    <td>Natalio Castillo</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Bartolome Cabangbang</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Esteban Bernido</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">4th Congress</td>
+                    <td rowspan="3">1957-1961</td>
+                    <td>1st District</td>
+                    <td>Natalio Castillo</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Bartolome Cabangbang</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Maximino Garcia</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">5th Congress</td>
+                    <td rowspan="3">1961-1965</td>
+                    <td>1st District</td>
+                    <td>Natalio Castillo</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Bartolome Cabangbang</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Maximino Garcia</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">6th Congress</td>
+                    <td rowspan="3">1965-1969</td>
+                    <td>1st District</td>
+                    <td>Natalio Castillo</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Jose Zafra</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Teodoro Galagar</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">7th Congress</td>
+                    <td rowspan="3">1969-1972</td>
+                    <td>1st District</td>
+                    <td>Natalio Castillo</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Pablo Malasarte</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Teodoro Galagar</td>
+                </tr>
+                <tr>
+                    <td>Interim Batasang Pambansa</td>
+                    <td>1978-1984</td>
+                    <td>At-Large</td>
+                    <td>Eutiquio Cimafranca</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">Regular Batasang Pambansa</td>
+                    <td rowspan="3">1984-1986</td>
+                    <td>At-Large</td>
+                    <td>Eladio Chatto</td>
+                </tr>
+                <tr>
+                    <td>At-Large</td>
+                    <td>Ramon M. Lapez</td>
+                </tr>
+                <tr>
+                    <td>At-Large</td>
+                    <td>David B. Tirol</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">8th Congress</td>
+                    <td rowspan="3">1987-1992</td>
+                    <td>1st District</td>
+                    <td>Venice Borja-Agana</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Christopher C. Lawrence</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Isidro Zarraga</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">9th Congress</td>
+                    <td rowspan="3">1992-1995</td>
+                    <td>1st District</td>
+                    <td>Venice Borja-Agana</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Erico B. Aumentado</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Isidro Zarraga</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">10th Congress</td>
+                    <td rowspan="3">1995-1998</td>
+                    <td>1st District</td>
+                    <td>Venice Borja-Agana</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Erico B. Aumentado</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Isidro Zarraga</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">11th Congress</td>
+                    <td rowspan="3">1998-2001</td>
+                    <td>1st District</td>
+                    <td>Ernesto Herrera</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Erico B. Aumentado</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Eladio Jala</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">12th Congress</td>
+                    <td rowspan="3">2001-2004</td>
+                    <td>1st District</td>
+                    <td>Edgar Chatto</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Roberto Cajes</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Eladio Jala</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">13th Congress</td>
+                    <td rowspan="3">2004-2007</td>
+                    <td>1st District</td>
+                    <td>Edgar Chatto</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Roberto Cajes</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Eladio Jala</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">14th Congress</td>
+                    <td rowspan="3">2007-2010</td>
+                    <td>1st District</td>
+                    <td>Edgar Chatto</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Roberto Cajes</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Adam Relson Jala</td>
+                </tr>
+                <tr>
+                    <td rowspan="4">15th Congress</td>
+                    <td rowspan="4">2010-2013</td>
+                    <td>1st District</td>
+                    <td>Rene Relampagos</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Erico B. Aumentado (until Dec 2012)</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Erico Aristotle C. Aumentado (from Dec 2012)</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Arthur Yap</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">16th Congress</td>
+                    <td rowspan="3">2013-2016</td>
+                    <td>1st District</td>
+                    <td>Rene Relampagos</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Erico Aristotle C. Aumentado</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Arthur Yap</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">17th Congress</td>
+                    <td rowspan="3">2016-2019</td>
+                    <td>1st District</td>
+                    <td>Rene Relampagos</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Erico Aristotle C. Aumentado</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Arthur Yap</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">18th Congress</td>
+                    <td rowspan="3">2019-2022</td>
+                    <td>1st District</td>
+                    <td>Edgar Chatto</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Erico Aristotle C. Aumentado</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Kristine Alexie Tutor</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">19th Congress</td>
+                    <td rowspan="3">2022-2025</td>
+                    <td>1st District</td>
+                    <td>Edgar Chatto</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Maria Vanessa Aumentado</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Kristine Alexie Tutor</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">20th Congress (Projected)</td>
+                    <td rowspan="3">2025-2028</td>
+                    <td>1st District</td>
+                    <td>John Geesnell Yap</td>
+                </tr>
+                <tr>
+                    <td>2nd District</td>
+                    <td>Maria Vanessa Aumentado</td>
+                </tr>
+                <tr>
+                    <td>3rd District</td>
+                    <td>Kristine Alexie Tutor</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+</body>
+</html>

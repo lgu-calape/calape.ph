@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Municipal Legislative Measures</title>
+  <style>
+    :root {
+      --primary-color: #2c3e50;
+      --secondary-color: #18bc9c;
+      --text-color: #2f2f2f;
+      --bg-color: #f4f6f7;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-color);
+    }
+
+    header {
+      background-color: var(--primary-color);
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+
+    main {
+      padding: 2rem;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 1.8rem;
+    }
+
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .filters input, .filters select {
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: white;
+    }
+
+    th, td {
+      border: 1px solid #ccc;
+      padding: 0.75rem;
+      text-align: left;
+    }
+
+    th {
+      background-color: var(--secondary-color);
+      color: white;
+    }
+
+    @media (max-width: 768px) {
+      .filters {
+        flex-direction: column;
+      }
+
+      table, thead, tbody, th, td, tr {
+        display: block;
+      }
+
+      thead tr {
+        display: none;
+      }
+
+      tr {
+        margin-bottom: 1rem;
+      }
+
+      td {
+        padding-left: 50%;
+        position: relative;
+      }
+
+      td::before {
+        content: attr(data-label);
+        position: absolute;
+        left: 0;
+        top: 0;
+        padding-left: 0.75rem;
+        font-weight: bold;
+        white-space: nowrap;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Municipal Legislative Measures Directory</h1>
+  </header>
+  <main>
+    <section class="filters">
+      <input type="text" id="searchInput" placeholder="Search by Title or Number" onkeyup="filterTable()" />
+      <select id="yearFilter" onchange="filterTable()">
+        <option value="">All Years</option>
+        <option>2023</option>
+        <option>2022</option>
+      </select>
+      <select id="typeFilter" onchange="filterTable()">
+        <option value="">All Types</option>
+        <option>Ordinance</option>
+        <option>Resolution</option>
+      </select>
+    </section>
+
+    <table id="legislationTable">
+      <thead>
+        <tr>
+          <th>Type</th>
+          <th>Number</th>
+          <th>Title / Subject</th>
+          <th>Author(s)</th>
+          <th>Date Passed</th>
+          <th>Status</th>
+          <th>Remarks</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td data-label="Type">Ordinance</td>
+          <td data-label="Number">Ord. No. 2023-05</td>
+          <td data-label="Title / Subject">Regulating Tricycle Operations</td>
+          <td data-label="Author(s)">Hon. Juan Dela Cruz</td>
+          <td data-label="Date Passed">2023-01-15</td>
+          <td data-label="Status">Approved</td>
+          <td data-label="Remarks">Published Feb 2023</td>
+        </tr>
+        <tr>
+          <td data-label="Type">Resolution</td>
+          <td data-label="Number">Res. No. 2023-12</td>
+          <td data-label="Title / Subject">Authorizing Mayor for MOA with DepEd</td>
+          <td data-label="Author(s)">Hon. Maria Santos</td>
+          <td data-label="Date Passed">2023-02-20</td>
+          <td data-label="Status">Adopted</td>
+          <td data-label="Remarks">MOA with DepEd</td>
+        </tr>
+        <!-- Add more rows as needed -->
+      </tbody>
+    </table>
+  </main>
+
+  <script>
+    function filterTable() {
+      const search = document.getElementById('searchInput').value.toLowerCase();
+      const year = document.getElementById('yearFilter').value;
+      const type = document.getElementById('typeFilter').value;
+
+      const table = document.getElementById('legislationTable');
+      const rows = table.getElementsByTagName('tbody')[0].getElementsByTagName('tr');
+
+      for (let row of rows) {
+        const cells = row.getElementsByTagName('td');
+        const text = row.textContent.toLowerCase();
+        const date = cells[4].textContent;
+        const passedYear = new Date(date).getFullYear().toString();
+        const rowType = cells[0].textContent;
+
+        const matchesSearch = text.includes(search);
+        const matchesYear = !year || passedYear === year;
+        const matchesType = !type || rowType === type;
+
+        if (matchesSearch && matchesYear && matchesType) {
+          row.style.display = '';
+        } else {
+          row.style.display = 'none';
+        }
+      }
+    }
+  </script>
+</body>
+</html>

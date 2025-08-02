@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Calape Municipal Government Officials 2025-2028">
+    <title>Calape Municipal Government Officials</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f0f2f5; /* Light gray background */
+        }
+        header img:hover {
+            opacity: 0.5;
+            cursor: pointer;
+        }
+        /* Custom styles for a more government feel */
+        .header-bg {
+            background-color: #1592d0;
+        }
+        .officer-card {
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+        }
+        .officer-card:hover {
+            transform: translateY(-5px);
+        }
+        .text-primary-blue {
+            color: #1e3a8a;
+        }
+        .border-primary-blue {
+            border-color: #1e3a8a;
+        }
+        @media screen and (max-width:434px) {
+            header h1 {
+              font-size: 1.25em !important;
+            }
+            header p {
+              font-size: 1.1em !important;
+            }
+            footer p {
+              font-size: 0.8em;
+            }
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col">
+    <!-- Header Section -->
+    <header class="header-bg text-white p-6 md:p-8 shadow-lg rounded-b-lg">
+        <div class="container mx-auto flex flex-col md:flex-row items-center justify-between">
+            <div class="text-center md:text-left mb-4 md:mb-0">
+                <h1 class="text-3xl md:text-4xl font-bold mb-1">Calape Municipal Government</h1>
+                <p class="text-lg md:text-xl">2025 - 2028 Elected Officials</p>
+            </div>
+            <!-- Placeholder for Seal/Logo (optional, can be replaced with an actual image) -->
+            <img src="assets/seal.svg" alt="Seal Placeholder" class="rounded-full border-2 border-white" style="width:100px;">
+        </div>
+    </header>
+
+    <!-- Main Content Section - Officers List -->
+    <main class="container mx-auto p-6 md:p-8 flex-grow">
+        <section class="mb-10">
+            <h2 class="text-3xl font-semibold text-primary-blue mb-6 text-center"><a href="mayors.html">Executive Officers</a></h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+                <!-- Mayor Card -->
+                <div class="officer-card bg-white p-6 rounded-xl flex items-center space-x-6">
+                    <img src="images/sulpicio-yu.jpg" alt="Mayor's Picture" class="w-32 h-32 rounded-full object-cover border-4 
+border-primary-blue shadow-md">
+                    <div>
+                        <h3 class="text-xl font-bold text-primary-blue">Hon. Sulpicio N. Yu</h3>
+                        <p class="text-gray-700">Municipal Mayor</p>
+                        <p class="text-sm text-gray-500"><!--Leading the municipality towards progress.--></p>
+                    </div>
+                </div>
+                <!-- Vice Mayor Card -->
+                <div class="officer-card bg-white p-6 rounded-xl flex items-center space-x-6">
+                    <img src="images/roldan-damalerio.jpg" alt="Vice Mayor's Picture" class="w-32 h-32 rounded-full object-cover border-4 border-primary-blue 
+shadow-md">
+                    <div>
+                        <h3 class="text-xl font-bold text-primary-blue">Hon. Roldan Damalerio</h3>
+                        <p class="text-gray-700">Municipal Vice Mayor</p>
+                        <p class="text-sm text-gray-500"><!--Supporting governance and legislative efforts.--></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="mb-10">
+            <h2 class="text-3xl font-semibold text-primary-blue mb-6 text-center">Sangguniang Bayan Members</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+                <!-- Councilor 1 -->
+                <div class="officer-card bg-white p-4 rounded-xl text-center">
+                    <img src="images/billmark-yu.jpg" alt="Councilor's Picture" class="w-24 h-24 rounded-full object-cover mx-auto mb-3 border-2 border-primary-blue">
+                    <h3 class="text-lg font-semibold text-primary-blue">Hon. Bill Mark Rances Yu</h3>
+                    <p class="text-gray-700 text-sm">SB Member</p>
+                </div>
+                <!-- Councilor 2 -->
+                <div class="officer-card bg-white p-4 rounded-xl text-center">
+                    <img src="images/jeanie-verano.jpg" alt="Councilor's Picture" class="w-24 h-24 rounded-full object-cover mx-auto mb-3 border-2 
+border-primary-blue">
+                    <h3 class="text-lg font-semibold text-primary-blue">Hon. Jeanie Lato Veraño</h3>
+                    <p class="text-gray-700 text-sm">SB Member</p>
+                </div>
+                <!-- Councilor 3 -->
+                <div class="officer-card bg-white p-4 rounded-xl text-center">
+                    <img src="images/aileen-veloso.jpg" alt="Councilor's Picture" class="w-24 h-24 rounded-full object-cover mx-auto mb-3 
+border-2 border-primary-blue">
+                    <h3 class="text-lg font-semibold text-primary-blue">Hon. Maria Aileen Dumadag Veloso</h3>
+                    <p class="text-gray-700 text-sm">SB Member</p>
+                </div>
+                <!-- Councilor 4 -->
+                <div class="officer-card bg-white p-4 rounded-xl text-center">
+                    <img src="images/leonora-rulona.jpg" alt="Councilor's Picture" class="w-24 h-24 rounded-full object-cover mx-auto mb-3 
+border-2 border-primary-blue">
+                    <h3 class="text-lg font-semibold text-primary-blue">Hon. Ma. Leonora Gujil Rulona</h3>
+                    <p class="text-gray-700 text-sm">SB Member</p>
+                </div>
+                <!-- Councilor 5 -->
+                <div class="officer-card bg-white p-4 rounded-xl text-center">
+                    <img src="images/gerry-regalado.jpg" alt="Councilor's Picture" class="w-24 h-24 rounded-full object-cover mx-auto mb-3 
+border-2 border-primary-blue">
+                    <h3 class="text-lg font-semibold text-primary-blue">Hon. Gerardo Forones Regalado</h3>
+                    <p class="text-gray-700 text-sm">SB Member</p>
+                </div>
+                <!-- Councilor 6 -->
+                <div class="officer-card bg-white p-4 rounded-xl text-center">
+                    <img src="images/marcus-herrera.jpg" alt="Councilor's Picture" class="w-24 h-24 rounded-full object-cover mx-auto mb-3 border-2 border-primary-blue">
+                    <h3 class="text-lg font-semibold text-primary-blue">Hon. Marcus Julius Leyson Herrera</h3>
+                    <p class="text-gray-700 text-sm">SB Member</p>
+                </div>
+                <!-- Councilor 7 -->
+                <div class="officer-card bg-white p-4 rounded-xl text-center">
+                    <img src="images/jose-jumangit.jpg" alt="Councilor's Picture" class="w-24 h-24 rounded-full object-cover mx-auto mb-3 border-2 
+border-primary-blue">
+                    <h3 class="text-lg font-semibold text-primary-blue">Hon. Jose Abarquez Jumangit Jr.</h3>
+                    <p class="text-gray-700 text-sm">SB Member</p>
+                </div>
+                <!-- Councilor 8 -->
+                <div class="officer-card bg-white p-4 rounded-xl text-center">
+                    <img src="images/kevin-damalerio.jpg" alt="Councilor's Picture" class="w-24 h-24 rounded-full object-cover mx-auto mb-3 
+border-2 border-primary-blue">
+                    <h3 class="text-lg font-semibold text-primary-blue">Hon. Kevin Reys Mag-uyon Damalerio</h3>
+                    <p class="text-gray-700 text-sm">SB Member</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="mb-10">
+            <h2 class="text-3xl font-semibold text-primary-blue mb-6 text-center">Federated Officers</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+                <!-- ABC President Card -->
+                <div class="officer-card bg-white p-6 rounded-xl flex items-center space-x-6">
+                    <img src="images/sergio-tesorio.jpg" alt="ABC President's Picture" class="w-32 h-32 rounded-full object-cover border-4 
+border-primary-blue shadow-md">
+                    <div>
+                        <h3 class="text-xl font-bold text-primary-blue">Hon. Sergio Infiesto Tesorio</h3>
+                        <p class="text-gray-700">ABC President</p>
+                        <p class="text-sm text-gray-500">Santa Cruz</p>
+                    </div>
+                </div>
+                <!-- SK Federated President Card -->
+                <div class="officer-card bg-white p-6 rounded-xl flex items-center space-x-6">
+                    <img src="images/cyren-tagra.jpg" alt="SK President's Picture" class="w-32 h-32 rounded-full object-cover border-4 border-primary-blue shadow-md">
+                    <div>
+                        <h3 class="text-xl font-bold text-primary-blue">Hon. Cyren Rose S. Tagra</h3>
+                        <p class="text-gray-700">SK Federated President</p>
+                        <p class="text-sm text-gray-500">Labuon</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer class="header-bg text-white p-4 text-center text-sm mt-8 rounded-t-lg">
+        <p>All content is in the public domain unless otherwise stated.</p>
+    </footer>
+
+    <script>
+        document.querySelector('header img').onclick = ()=> location.assign('/');
+    </script>
+</body>
+</html>
+

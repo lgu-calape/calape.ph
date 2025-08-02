@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Municipal Government of Calape - Ordinances and Resolutions Directory." />
+  <title>Ordinances and Resolutions</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+  @media screen and (max-width: 768px) {
+   tr, td {
+    display: block;
+   }
+   td:nth-child(1) {text-transform: uppercase}
+   td:nth-child(1), td:nth-child(2) {
+    display: inline-block;
+   }
+   tr:nth-child(odd) {
+    background-color: #fefefe;
+   }
+   tr:nth-child(even) {
+    background-color: #fafafa;
+   }
+   thead, td:nth-child(6) {
+    display: none;
+   }
+   header h1 {
+    font-size: 1.45em !important;
+   }
+   header p {
+    font-size: 0.64em !important;
+   }
+  }
+
+  @media screen and (max-width: 380px) {
+   header h1 {
+    font-size: 1.35em !important;
+   }
+   header p {
+    font-size: 0.21em !important;
+   }  
+  }
+
+  th:nth-child(4), td:nth-child(4) {
+   display: none;
+  }
+  td {
+   white-space: nowrap;
+  }
+  td:nth-child(3) {
+   white-space: wrap;
+  }
+  .burgerIcon {
+   float: right;
+   cursor: pointer;
+   font-size: 32px;
+   line-height: 25px;
+  }
+  </style>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+  <div class="container mx-auto p-6">
+    <header class="mb-8">
+      <div class="burgerIcon" onclick="location.assign('/');">☰</div>
+      <h1 class="text-3xl font-bold text-blue-800"><a href="/">📘</a> Legislative Measures</h1>
+      <p class="text-sm text-gray-600">Official listing of proposed and approved legislative measures.</p>
+    </header>
+
+    <div class="overflow-x-auto bg-white rounded-lg shadow border">
+      <table class="min-w-full divide-y divide-gray-200">
+        <thead class="bg-gray-100 text-left text-sm font-semibold text-gray-700">
+          <tr>
+            <th class="px-4 py-3">Type</th>
+            <th class="px-4 py-3">Number</th>
+            <th class="px-4 py-3">Title</th>
+            <th class="px-4 py-3">Author(s)</th>
+            <th class="px-4 py-3">Date Filed</th>
+            <th class="px-4 py-3">Status</th>
+            <th class="px-4 py-3">Download</th>
+          </tr>
+        </thead>
+        <tbody class="text-sm divide-y divide-gray-100">
+          <tr>
+            <td class="px-4 py-3 font-medium">Resolution</td>
+            <td class="px-4 py-3 font-medium">2025-195</td>
+            <td class="px-4 py-3">Endorsing the establishment of a Special Science School Program at CCES G1.</td>
+            <td class="px-4 py-3">-</td>
+            <td class="px-4 py-3">2025-07-21</td>
+            <td class="px-4 py-3 text-green-600">Adopted</td>
+            <td class="px-4 py-3">
+              <a href="/sb/res-2025-195.pdf" class="text-blue-600 hover:underline">PDF</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="px-4 py-3 font-medium">Resolution</td>
+            <td class="px-4 py-3 font-medium">2025-194</td>
+            <td class="px-4 py-3">Expressing no objection to the delivery of the embarkment materials to Santa Clara Int'l Co. for the PRDP project.</td>
+            <td class="px-4 py-3">-</td>
+            <td class="px-4 py-3">2025-07-21</td>
+            <td class="px-4 py-3 text-green-600">Adopted</td>
+            <td class="px-4 py-3">
+              <a href="/sb/res-2025-194.pdf" class="text-blue-600 hover:underline">PDF</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="px-4 py-3 font-medium">Resolution</td>
+            <td class="px-4 py-3 font-medium">2025-181</td>
+            <td class="px-4 py-3">Clustering of barangays and the assignment of each SB member.</td>
+            <td class="px-4 py-3">-</td>
+            <td class="px-4 py-3">2025-07-09</td>
+            <td class="px-4 py-3 text-green-600">Adopted</td>
+            <td class="px-4 py-3">
+              <a href="/sb/res-2025-181.pdf" class="text-blue-600 hover:underline">PDF</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="px-4 py-3 font-medium">Resolution</td>
+            <td class="px-4 py-3 font-medium">2025-180</td>
+            <td class="px-4 py-3">Creating the standing committees of the Sangguniang Bayan</td>
+            <td class="px-4 py-3">-</td>
+            <td class="px-4 py-3">2025-07-09</td>
+            <td class="px-4 py-3 text-green-600">Adopted</td>
+            <td class="px-4 py-3">
+              <a href="/sb/res-2025-180.pdf" class="text-blue-600 hover:underline">PDF</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="px-4 py-3 font-medium">Resolution</td>
+            <td class="px-4 py-3 font-medium">2025-179</td>
+            <td class="px-4 py-3">Authorizing the mayor to sign and enter into contracts of service.</td>
+            <td class="px-4 py-3">-</td>
+            <td class="px-4 py-3">2025-07-09</td>
+            <td class="px-4 py-3 text-green-600">Adopted</td>
+            <td class="px-4 py-3">
+              <a href="/sb/res-2025-179.pdf" class="text-blue-600 hover:underline">PDF</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="px-4 py-3 font-medium">Resolution</td>
+            <td class="px-4 py-3 font-medium">2025-178</td>
+            <td class="px-4 py-3">Authorizing the Mayor, Vice Mayor, and Treasurer as the official signatories of all bank accounts.</td>
+            <td class="px-4 py-3">-</td>
+            <td class="px-4 py-3">2025-07-02</td>
+            <td class="px-4 py-3 text-green-600">Adopted</td>
+            <td class="px-4 py-3">
+              <a href="/sb/res-2025-178.pdf" class="text-blue-600 hover:underline">PDF</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="px-4 py-3 font-medium">Resolution</td>
+            <td class="px-4 py-3 font-medium">2025-177</td>
+            <td class="px-4 py-3">Fixing the schedule of the regular sessions of the Sangguniang Bayan.</td>
+            <td class="px-4 py-3">-</td>
+            <td class="px-4 py-3">2025-07-02</td>
+            <td class="px-4 py-3 text-green-600">Adopted</td>
+            <td class="px-4 py-3">
+              <a href="/sb/res-2025-177.pdf" class="text-blue-600 hover:underline">PDF</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <footer class="mt-10 text-xs text-gray-500 text-center">
+      All content is in the public domain unless otherwise stated.
+    </footer>
+  </div>
+</body>
+</html>

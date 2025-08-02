@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calape Municipal Government - Chief Executives</title>
+    <meta name="description" content="Calape Municipal Government - List of chief executives from 1885 to present">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Open+Sans:wght=400&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #0056b3; /* Darker blue for government feel */
+            --secondary-color: #007bff; /* Lighter blue for accents */
+            --text-color: #333;
+            --light-bg: #f8f9fa;
+            --border-color: #dee2e6;
+            --header-bg: #e9ecef;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--light-bg);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 0 15px;
+        }
+
+        header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        header p {
+            margin-top: 5px;
+            font-size: 1.1em;
+        }
+
+        .content-section {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
+            margin-top: 20px;
+        }
+
+        h2 {
+            color: var(--primary-color);
+            padding-bottom: 10px;
+            margin-bottom: 25px;
+            font-size: 2em;
+            text-align: center;
+        }
+
+        .es-period {
+            border-left: 5px solid #ffc107 !important;
+        }
+
+        .en-period {
+            border-left: 5px solid #de4848 !important;
+        }
+
+        .mayor-list {
+            list-style: none;
+            padding: 0;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+        }
+
+        .mayor-item {
+            background-color: var(--header-bg);
+            border: 1px solid var(--border-color);
+            border-left: 5px solid var(--secondary-color);
+            padding: 20px;
+            border-radius: 5px;
+            transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+        }
+
+        .mayor-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .mayor-item h3 {
+            color: var(--primary-color);
+            margin-top: 0;
+            margin-bottom: 10px;
+            font-size: 1.5em;
+        }
+
+        .mayor-item p {
+            margin: 5px 0;
+            font-size: 0.95em;
+        }
+
+        .mayor-item p strong {
+            color: var(--text-color);
+        }
+
+        .current-mayor {
+            background-color: #d4edda; /* Light green for current mayor */
+            border-color: #28a745; /* Darker green */
+            border-left: 5px solid #28a745;
+        }
+
+        .notes {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #fff3cd; /* Light yellow for notes */
+            border: 1px solid #ffeeba;
+            border-left: 5px solid #ffc107;
+            border-radius: 5px;
+            font-size: 0.9em;
+            color: #856404;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            margin-top: 30px;
+            background-color: var(--primary-color);
+            color: white;
+            font-size: 0.9em;
+            border-radius: 8px;
+        }
+
+        /* Responsive Adjustments */
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 1.8em;
+            }
+
+            .content-section {
+                padding: 20px;
+            }
+
+            h2 {
+                font-size: 1.5em;
+            }
+
+            .mayor-list {
+                grid-template-columns: 1fr; /* Stack items on small screens */
+            }
+
+            .mayor-item {
+                padding: 15px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            header h1 {
+                font-size: 1.5em;
+            }
+
+            header p {
+                font-size: 0.9em;
+            }
+
+            .content-section {
+                padding: 15px;
+            }
+
+            .content-section p {
+                font-size: 93%;
+            }
+            .notes {
+                padding: 15px;
+            }
+        }
+        .legend {
+          display: flex;
+          align-items: stretch;
+        }
+        .perspan {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 33.33%;
+          text-align: center;
+          font-size: 0.18em;
+        }
+        .es-span {
+          background-color: #ffc107;
+          color: #333;
+        }
+        .en-span {
+          background-color: #de4848;
+          color: #fff;
+        }
+        .ph-span {
+          background-color: #007bff;
+          color: #fff;
+        }
+        @media screen and (max-width: 416px) {
+          .period {
+            display: none;
+          }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Calape Municipal Government</h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <section class="content-section">
+            <h2>Chief Executives</h2>
+            <div class="legend">
+              <span class="perspan ph-span">1938-present</span>
+              <span class="perspan en-span">american period <i class="period">(1919-1934)</i></span>
+              <span class="perspan es-span">spanish period <i class="period">(1885-1919)</i></span>
+            </div>
+            <ul class="mayor-list">
+                <li class="mayor-item">
+                    <h3>Sulpicio N. Yu Jr.</h3>
+                    <p><strong>Term:</strong> 2025 - present</p>
+                </li>
+                <li class="mayor-item">
+                    <h3>Julius Caesar F. Herrera</h3>
+                    <p><strong>Term:</strong> 2022 - 2025</p>
+                </li>
+                <li class="mayor-item">
+                    <h3>Nelson Nesia Yu</h3>
+                    <p><strong>Term:</strong> 2016 - 2022</p>
+                </li>
+                <li class="mayor-item">
+                    <h3>Sulpicio N. Yu Jr.</h3>
+                    <p><strong>Term:</strong> 2007 - 2016</p>
+                </li>
+                <li class="mayor-item">
+                    <h3>Ernesto Cuico Herrera II</h3>
+                    <p><strong>Term:</strong> 2001 - 2007</p>
+                </li>
+                <li class="mayor-item">
+                    <h3>Julius Caesar F. Herrera</h3>
+                    <p><strong>Term:</strong> 1995 - 2001</p>
+                </li>
+                <li class="mayor-item">
+                    <h3>Gerardo T. Yu</h3>
+                    <p><strong>Term:</strong> 1992 - 1995</p>
+                </li>
+                <li class="mayor-item">
+                    <h3>Gabriel P. de la Peña</h3>
+                    <p><strong>Term:</strong> 1986 - 1992</p>
+                </li>
+                <li class="mayor-item">
+                    <h3>Anunciacion R. Tuazon</h3>
+                    <p><strong>Term:</strong> 1979 - 1986</p>
+                </li>
+                <li class="mayor-item">
+                    <h3>Isidro R. Redulla</h3>
+                    <p><strong>Term:</strong> 1968 - 1979</p>
+                </li>
+                <li class="mayor-item">
+                    <h3>Arsenio G. Damalerio</h3>
+                    <p><strong>Term:</strong> 1964 - 1967</p>
+                </li>
+                <li class="mayor-item">
+                    <h3>Alberto Carlon</h3>
+                    <p><strong>Term:</strong> 1956 - 1963</p>
+                </li>
+                <li class="mayor-item">
+                    <h3>Ramon E. Nazareno</h3>
+                    <p><strong>Term:</strong> 1952 - 1955</p>
+                </li>
+                <li class="mayor-item">
+                    <h3>Pedro Dumadag</h3>
+                    <p><strong>Term:</strong> 1946 - 1951</p>
+                </li>
+                <li class="mayor-item">
+                    <h3>Gaudencio Sepe</h3>
+                    <p><strong>Term:</strong> 1942 - 1945</p>
+                </li>
+                <li class="mayor-item">
+                    <h3>Felomeno Ruiz</h3>
+                    <p><strong>Term:</strong> 1938 - 1941</p>
+                </li>
+                <li class="mayor-item en-period">
+                    <h3>Benigno Palacio</h3>
+                    <p><strong>Term:</strong> 1933 - 1937</p>
+                </li>
+                <li class="mayor-item en-period">
+                    <h3>Alfonso Damalerio</h3>
+                    <p><strong>Term:</strong> c.1928-1932</p>
+                </li>
+                <li class="mayor-item en-period">
+                    <h3>Mauricio T. Cuario</h3>
+                    <p><strong>Term:</strong> 1923 - 1927</p>
+                </li>
+                <li class="mayor-item en-period">
+                    <h3>Salvador Rodriguez</h3>
+                    <p><strong>Term:</strong> c.1922</p>
+                </li>
+                <li class="mayor-item en-period">
+                    <h3>Juan Loquillano</h3>
+                    <p><strong>Term:</strong> c.1919-1922</p>
+                </li>
+                <li class="mayor-item es-period">
+                    <h3>Raymundo de la Piña</h3>
+                    <p><strong>Term:</strong> ?</p>
+                </li>
+                <li class="mayor-item es-period">
+                    <h3>Amadeo Mozo</h3>
+                    <p><strong>Term:</strong> ?</p>
+                </li>
+                <li class="mayor-item es-period">
+                    <h3>Benedicto Cua</h3>
+                    <p><strong>Term:</strong> ?</p>
+                </li>
+                <li class="mayor-item es-period">
+                    <h3>Estefanio Salomon</h3>
+                    <p><strong>Term:</strong> ?</p>
+                </li>
+                <li class="mayor-item es-period">
+                    <h3>Policarpio Josol</h3>
+                    <p><strong>Term:</strong> ?</p>
+                </li>
+                <li class="mayor-item es-period">
+                    <h3>Andres Imperial</h3>
+                    <p><strong>Term:</strong> ?</p>
+                </li>
+                <li class="mayor-item es-period">
+                    <h3>Antonio Dano</h3>
+                    <p><strong>Term:</strong> ?</p>
+                </li>
+                <li class="mayor-item es-period">
+                    <h3>Adriano Asilo</h3>
+                    <p><strong>Term:</strong> c.1885</p>
+                </li>
+            </ul>
+
+            <div class="notes">
+                <p><strong>Note:</strong> This list is compiled from 
+available historical records. While efforts have been made to ensure 
+accuracy, some exact dates for earlier terms might vary slightly based on 
+different historical accounts. The current mayor's term is based on the 
+standard Philippine local election cycle. <a 
+href="chief-executives">Old list</a></p>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>All content is in the public domain unless otherwise stated.</p>
+        </div>
+    </footer>
+</body>
