@@ -49,12 +49,19 @@
   }
   td:nth-child(3) {
    white-space: wrap;
+   max-width: 400px;
   }
   .burgerIcon {
    float: right;
    cursor: pointer;
    font-size: 32px;
    line-height: 25px;
+  }
+  .toggle-btn {
+    color: #2563eb;
+    cursor: pointer;
+    margin-left: 5px;
+    font-size: 0.85em;
   }
   </style>
 </head>
@@ -98,10 +105,23 @@
         const tbody = document.getElementById('legislation-body');
         data.forEach(item => {
           const row = document.createElement('tr');
+
+          let titleWords = item.title.split(" ");
+          let displayTitle = item.title;
+          let needsToggle = false;
+
+          if (titleWords.length > 20) {
+            needsToggle = true;
+            displayTitle = titleWords.slice(0, 20).join(" ") + "...";
+          }
+
           row.innerHTML = `
             <td class="px-4 py-3 font-medium">${item.type}</td>
             <td class="px-4 py-3 font-medium">${item.number}</td>
-            <td class="px-4 py-3">${item.title}</td>
+            <td class="px-4 py-3">
+              <span class="title-text">${displayTitle}</span>
+              ${needsToggle ? `<span class="toggle-btn">[Show more]</span>` : ""}
+            </td>
             <td class="px-4 py-3">${item.author}</td>
             <td class="px-4 py-3">${item.date_filed}</td>
             <td class="px-4 py-3 text-green-600">${item.status}</td>
@@ -109,6 +129,22 @@
               ${item.download_link ? `<a href="${item.download_link}" class="text-blue-600 hover:underline">PDF</a>` : ''}
             </td>
           `;
+
+          // Attach toggle handler
+          if (needsToggle) {
+            const toggleBtn = row.querySelector(".toggle-btn");
+            const titleText = row.querySelector(".title-text");
+            toggleBtn.addEventListener("click", () => {
+              if (toggleBtn.textContent === "[Show more]") {
+                titleText.textContent = item.title;
+                toggleBtn.textContent = "[Show less]";
+              } else {
+                titleText.textContent = titleWords.slice(0, 20).join(" ") + "...";
+                toggleBtn.textContent = "[Show more]";
+              }
+            });
+          }
+
           tbody.appendChild(row);
         });
       } catch (error) {
