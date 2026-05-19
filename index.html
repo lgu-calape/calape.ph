@@ -248,6 +248,9 @@
             align-items: center;
             gap: 2px;
             text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+            pointer-events: auto;
+            color: inherit;
+            text-decoration: none;
         }
         .w-hud-icon { font-size: 3em; line-height: 1; }
         .w-hud-temp {
@@ -585,6 +588,9 @@
             .contact-info li strong {
                 min-width: unset;
             }
+            .w-hud-link {
+                display: none;
+            }
         }
 
         @media screen and (max-width: 480px) {
@@ -702,11 +708,11 @@
                     <span class="w-hud-loc">Calape &middot; Bohol &middot; PH</span>
                     <span class="w-hud-clock" id="w-clock"></span>
                 </div>
-                <div class="w-hud-center">
+                <a class="w-hud-center" href="https://atmos.calape.ph" target="_blank" rel="noopener">
                     <span class="w-hud-icon" id="w-icon">🌡️</span>
                     <span class="w-hud-temp" id="w-temp">--°</span>
                     <span class="w-hud-desc" id="w-desc">Loading&hellip;</span>
-                </div>
+                </a>
                 <div class="w-hud-bottom" id="w-stats"></div>
                 <a class="w-hud-link" href="https://atmos.calape.ph" target="_blank" rel="noopener">Full weather &rsaquo;</a>
             </div>
