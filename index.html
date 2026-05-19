@@ -892,7 +892,7 @@
 
                     document.getElementById('w-stats').innerHTML = stats.map(s => `<span>${s}</span>`).join('');
                 } catch (e) {
-                    document.getElementById('w-desc').textContent = 'Signal unavailable';
+                    document.getElementById('w-hud').style.display = 'none';
                 }
             }
 
